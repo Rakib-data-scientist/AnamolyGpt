@@ -1,4 +1,4 @@
-# AnamolyGpt
+# AnomalyGpt
 
 Insipired by : https://github.com/casia-iva-lab/anomalygpt
 
