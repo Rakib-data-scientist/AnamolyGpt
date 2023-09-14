@@ -1,6 +1,6 @@
 # AnomalyGpt
 
-Insipired by : https://github.com/casia-iva-lab/anomalygpt
+
 
 
 1.
@@ -27,3 +27,6 @@ Insipired by : https://github.com/casia-iva-lab/anomalygpt
 ![AnomalyGPT-A-Novel-Approach-to-Industrial-Anomaly-Detection (1)_page-0011](https://github.com/Rakib-data-scientist/AnomalyGpt/assets/137823730/f70e9df6-f4f4-4fe9-936d-36f1d2212100)
 12.
 ![AnomalyGPT-A-Novel-Approach-to-Industrial-Anomaly-Detection (1)_page-0012](https://github.com/Rakib-data-scientist/AnomalyGpt/assets/137823730/7fe26219-4fa8-470e-9247-2b9bca35bc7f)
+
+
+* Insipired by : https://github.com/casia-iva-lab/anomalygpt
